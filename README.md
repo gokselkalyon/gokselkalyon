@@ -62,7 +62,8 @@
 <p align="left"></p>
 
 ###
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokselkalyon&repo=UserManagement.authorize)](https://github.com/gokselkalyon/UserManagement.authorize)
+<div>
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokselkalyon&repo=UserManagement.authorize)](https://github.com/gokselkalyon/UserManagement.authorize)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokselkalyon&repo=CHBYS)](https://github.com/gokselkalyon/CHBYS)
+</div>
