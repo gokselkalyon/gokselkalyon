@@ -55,7 +55,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/gokselkalyon/gokselkalyon/snake.svg" alt="Snake animation" />
+<img src="[https://raw.githubusercontent.com/gokselkalyon/gokselkalyon/snake.svg](https://profile-readme-generator.com/assets/snake.svg)" alt="Snake animation" />
 
 ###
 
