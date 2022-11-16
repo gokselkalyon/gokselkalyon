@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is Göksel and I'm a Front-End developer</h2>
 
 ###
+###
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&username=gokselkalyon" height="150" alt="stats graph"  />
@@ -12,6 +13,8 @@
 <img align="right" height="150" src="https://avatars.githubusercontent.com/u/32458200?v=4"  />
 
 ###
+
+<br>
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" height="30" width="42" alt="angularjs logo"  />
@@ -30,6 +33,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="30" width="42" alt="gitlab logo"  />
 </div>
+
+
+<br>
 
 ###
 
@@ -52,17 +58,18 @@
 </div>
 
 ###
+###
+<br>
 
-<br clear="both">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<div align=center>
+  <img align=center src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ###
-
-<p align="left"></p>
-
 ###
-<div>
+
+<br>
+<div align=center>
   
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokselkalyon&repo=UserManagement.authorize&theme=dracula)](https://github.com/gokselkalyon/UserManagement.authorize)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokselkalyon&repo=CHBYS&theme=dracula)](https://github.com/gokselkalyon/CHBYS)
