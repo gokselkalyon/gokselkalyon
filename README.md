@@ -70,8 +70,8 @@
 
 <br>
 <div align=center>
-  
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokselkalyon&repo=UserManagement.authorize&theme=dracula)](https://github.com/gokselkalyon/UserManagement.authorize)
+    
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokselkalyon&repo=ihalemeydani&theme=dracula)](https://github.com/gokselkalyon/ihalemeydani)
   [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokselkalyon&repo=CHBYS&theme=dracula)](https://github.com/gokselkalyon/CHBYS)
   
 </div>
