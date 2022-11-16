@@ -64,7 +64,7 @@
 ###
 <div>
   
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokselkalyon&repo=UserManagement.authorize)](https://github.com/gokselkalyon/UserManagement.authorize)
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokselkalyon&repo=CHBYS&theme=radical)](https://github.com/gokselkalyon/CHBYS)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokselkalyon&repo=UserManagement.authorize&theme=Dracula)](https://github.com/gokselkalyon/UserManagement.authorize)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=gokselkalyon&repo=CHBYS&theme=Dracula)](https://github.com/gokselkalyon/CHBYS)
   
 </div>
